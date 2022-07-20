@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T07:26:54.374Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="MQO1nDxqCmMm77z1NcYh" version="20.0.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-20T07:59:11.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wvCqXCT9JpqJpiemC04d" version="20.0.3" type="github" pages="3">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="flow">
     <mxGraphModel dx="1723" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -508,41 +508,41 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6CwIh8_SnteMB-dm0Z0z-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 22px;&quot;&gt;项目总体目标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;perimeterSpacing=1;fontStyle=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="6CwIh8_SnteMB-dm0Z0z-2" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 24px;&quot;&gt;项目总体目标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;sketch=0;strokeWidth=2;perimeterSpacing=1;fontStyle=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="-770" y="315" width="210" height="110" as="geometry" />
         </mxCell>
         <mxCell id="15dOnrsKO9DdW6RfsD_v-1" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 20px;&quot;&gt;高带宽&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;perimeterSpacing=1;fontStyle=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="-730" y="525" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="15dOnrsKO9DdW6RfsD_v-79" value="Untitled Layer" parent="0" />
-        <mxCell id="15dOnrsKO9DdW6RfsD_v-109" value="&lt;b style=&quot;font-family: 宋体; font-size: 20px;&quot;&gt;&lt;font color=&quot;#0000cc&quot;&gt;关键科学问题三&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;智能计算芯片的配套软件系统的易用性、通用性和可编程性问题&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;gradientDirection=south;sketch=0;fillColor=#CCE5FF;strokeWidth=2;perimeterSpacing=1;opacity=30;strokeColor=#0000CC;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
-          <mxGeometry x="340" y="600" width="280" height="140" as="geometry" />
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-109" value="&lt;font face=&quot;黑体&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 22px; line-height: 1.2;&quot;&gt;科学问题3&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;智能计算芯片的配套软件系统的易用性、通用性和可编程性问题&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;gradientDirection=south;sketch=0;fillColor=#E6E6E6;strokeWidth=2;perimeterSpacing=1;opacity=50;strokeColor=#333333;spacingLeft=10;spacingRight=10;glass=0;shadow=0;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry x="54" y="600" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="15dOnrsKO9DdW6RfsD_v-110" value="&lt;font face=&quot;黑体&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;主要研究内容三&lt;/font&gt;&lt;/b&gt;&lt;br&gt;面向Chiplet多芯片集成架构的高级系统封装技术研究&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;sketch=0;fillColor=#FFCCCC;strokeWidth=2;perimeterSpacing=1;opacity=30;strokeColor=#FF0000;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
-          <mxGeometry x="-470" y="400" width="280" height="140" as="geometry" />
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-110" value="&lt;font face=&quot;黑体&quot;&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;主要研究内容3&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;面向Chiplet多芯片集成架构的高级系统封装技术研究&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;sketch=0;fillColor=#fff2cc;strokeWidth=2;perimeterSpacing=1;opacity=30;strokeColor=#994C00;spacingLeft=10;spacingRight=10;gradientColor=#ffd966;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry x="-470" y="432" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="15dOnrsKO9DdW6RfsD_v-112" value="&lt;font face=&quot;黑体&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#99004d&quot; style=&quot;font-size: 20px;&quot;&gt;技术关键一&lt;/font&gt;&lt;br&gt;&lt;/b&gt;&lt;span style=&quot;background-color: initial; text-indent: 28pt;&quot;&gt;“算法&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-indent: 28pt;&quot; lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-indent: 28pt;&quot;&gt;软件&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-indent: 28pt;&quot; lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;background-color: initial; text-indent: 28pt;&quot;&gt;芯片”协同设计的自动化搜索优化技术&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;strokeWidth=2;glass=0;shadow=0;sketch=0;fillColor=#E6E6E6;perimeterSpacing=1;opacity=50;strokeColor=#333333;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
-          <mxGeometry x="-80" y="130" width="280" height="140" as="geometry" />
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-112" value="&lt;font face=&quot;黑体&quot; style=&quot;&quot;&gt;&lt;font color=&quot;#0000cc&quot; style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;技术关键1&lt;/b&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 20px; background-color: initial; text-indent: 28pt;&quot;&gt;“算法&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial; text-indent: 28pt;&quot; lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial; text-indent: 28pt;&quot;&gt;软件&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial; text-indent: 28pt;&quot; lang=&quot;EN-US&quot;&gt;-&lt;/span&gt;&lt;span style=&quot;font-size: 20px; background-color: initial; text-indent: 28pt;&quot;&gt;芯片”协同设计的自动化搜索优化技术&lt;/span&gt;&lt;/font&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;strokeWidth=2;glass=0;shadow=0;sketch=0;fillColor=#CCE5FF;perimeterSpacing=1;opacity=30;strokeColor=#0000CC;spacingLeft=10;spacingRight=10;gradientDirection=south;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry x="494" y="100" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="15dOnrsKO9DdW6RfsD_v-113" value="&lt;b style=&quot;font-family: 宋体;&quot;&gt;&lt;font color=&quot;#99004d&quot; style=&quot;font-size: 20px;&quot;&gt;技术关键二&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-family: 宋体;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;智能计算芯片设计及结合先进工艺制程的Chiplet封装技术&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;strokeWidth=2;sketch=0;fillColor=#E6E6E6;perimeterSpacing=1;opacity=50;strokeColor=#333333;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
-          <mxGeometry x="-70" y="350" width="280" height="140" as="geometry" />
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-113" value="&lt;font face=&quot;黑体&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#0000cc&quot; style=&quot;font-size: 22px;&quot;&gt;技术关键2&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;智能计算芯片设计及结合先进工艺制程的Chiplet封装技术&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;strokeWidth=2;sketch=0;fillColor=#CCE5FF;perimeterSpacing=1;opacity=30;strokeColor=#0000CC;spacingLeft=10;spacingRight=10;gradientDirection=south;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry x="494" y="350" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="15dOnrsKO9DdW6RfsD_v-114" value="&lt;font face=&quot;黑体&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;主要研究内容四&lt;/font&gt;&lt;/b&gt;&lt;br&gt;面向AI应用的多芯片集成体系架构及其配套的异构计算方案研究&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;sketch=0;fillColor=#FFCCCC;strokeWidth=2;perimeterSpacing=1;opacity=30;strokeColor=#FF0000;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
-          <mxGeometry x="-470" y="590" width="280" height="140" as="geometry" />
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-114" value="&lt;font face=&quot;黑体&quot;&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;主要研究内容4&lt;/font&gt;&lt;/b&gt;&lt;br&gt;&lt;/font&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;面向AI应用的多芯片集成体系架构及其配套的异构计算方案研究&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;sketch=0;fillColor=#fff2cc;strokeWidth=2;perimeterSpacing=1;opacity=30;strokeColor=#994C00;spacingLeft=10;spacingRight=10;gradientColor=#ffd966;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry x="-470" y="615" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="15dOnrsKO9DdW6RfsD_v-117" value="&lt;font face=&quot;黑体&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#ff0000&quot;&gt;主要研究内容二&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;低能耗的高性能并行计算核心和高带宽的多层级互联扩展接口研究&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;sketch=0;fillColor=#FFCCCC;strokeWidth=2;perimeterSpacing=1;opacity=30;strokeColor=#FF0000;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
-          <mxGeometry x="-470" y="210" width="280" height="140" as="geometry" />
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-117" value="&lt;font style=&quot;&quot; face=&quot;黑体&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#cc6600&quot; style=&quot;font-size: 22px;&quot;&gt;主要研究内容2&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 20px; color: rgb(0, 0, 0);&quot;&gt;低能耗的高性能并行计算核心和高带宽的多层级互联扩展接口研究&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;sketch=0;fillColor=#fff2cc;strokeWidth=2;perimeterSpacing=1;opacity=30;strokeColor=#994C00;spacingLeft=10;spacingRight=10;gradientColor=#ffd966;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry x="-470" y="248" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="15dOnrsKO9DdW6RfsD_v-119" value="&lt;font color=&quot;#99004d&quot;&gt;&lt;b style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;技术关键三&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-family: 宋体;&quot;&gt;&lt;/font&gt;&lt;font face=&quot;黑体&quot;&gt;异构众核计算芯片系统体系架构及其可编程技术&lt;/font&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;strokeWidth=2;sketch=0;fillColor=#E6E6E6;perimeterSpacing=1;opacity=50;strokeColor=#333333;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
-          <mxGeometry x="-60" y="585" width="280" height="140" as="geometry" />
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-119" value="&lt;font face=&quot;黑体&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#0000cc&quot; style=&quot;font-size: 22px;&quot;&gt;技术关键3&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;异构众核计算芯片系统体系架构及其可编程技术&lt;/font&gt;&lt;/font&gt;&lt;font face=&quot;宋体&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;strokeWidth=2;sketch=0;fillColor=#CCE5FF;perimeterSpacing=1;opacity=30;strokeColor=#0000CC;spacingLeft=10;spacingRight=10;gradientDirection=south;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry x="494" y="600" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="15dOnrsKO9DdW6RfsD_v-127" value="&lt;b style=&quot;font-family: 宋体; font-size: 20px;&quot;&gt;&lt;font color=&quot;#0000cc&quot;&gt;关键科学问题二&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;基于&lt;span style=&quot;&quot; lang=&quot;EN-US&quot;&gt;Chiplet&lt;/span&gt;的多芯片系统级集成架构的工业化工艺与量产问题&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;gradientDirection=south;sketch=0;fillColor=#CCE5FF;strokeWidth=2;perimeterSpacing=1;opacity=30;strokeColor=#0000CC;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
-          <mxGeometry x="360" y="330" width="280" height="140" as="geometry" />
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-127" value="&lt;font face=&quot;黑体&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;font-size: 22px;&quot;&gt;科学问题2&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;基于&lt;span style=&quot;font-size: 20px;&quot; lang=&quot;EN-US&quot;&gt;Chiplet&lt;/span&gt;的多芯片系统级集成架构的工业化工艺与量产问题&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;gradientDirection=south;sketch=0;fillColor=#E6E6E6;strokeWidth=2;perimeterSpacing=1;opacity=50;strokeColor=#333333;spacingLeft=10;spacingRight=10;glass=0;shadow=0;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry x="54" y="350" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="15dOnrsKO9DdW6RfsD_v-128" value="&lt;font color=&quot;#0000cc&quot; size=&quot;1&quot; style=&quot;font-family: 宋体;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;关键科学问题一&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;黑体&quot;&gt;兼顾访存密集和计算密集的混合计算范式的高能效可扩展智能计算体系结构的设计问题&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;gradientDirection=south;sketch=0;fillColor=#CCE5FF;strokeWidth=2;perimeterSpacing=1;fixDash=0;container=0;dropTarget=0;opacity=30;strokeColor=#3333FF;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
-          <mxGeometry x="320" y="115" width="280" height="140" as="geometry" />
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-128" value="&lt;font face=&quot;黑体&quot;&gt;&lt;font color=&quot;#666666&quot; size=&quot;1&quot; style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;b style=&quot;&quot;&gt;科学问题1&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;br style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;兼顾访存密集和计算密集的混合计算范式的高能效可扩展智能计算体系结构的设计问题&lt;/font&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;rounded=0;gradientDirection=south;sketch=0;fillColor=#E6E6E6;strokeWidth=2;perimeterSpacing=1;fixDash=0;container=0;dropTarget=0;opacity=50;strokeColor=#333333;spacingLeft=10;spacingRight=10;glass=0;shadow=0;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry x="54" y="100" width="280" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="15dOnrsKO9DdW6RfsD_v-129" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 20px;&quot;&gt;低功耗&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;perimeterSpacing=1;fontStyle=1;fillColor=#FFFFFF;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-129" value="&lt;font face=&quot;黑体&quot; style=&quot;font-size: 20px;&quot;&gt;低功耗&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeWidth=2;perimeterSpacing=1;fontStyle=1;fillColor=#FFFFFF;fontSize=20;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
           <mxGeometry x="-730" y="155" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="15dOnrsKO9DdW6RfsD_v-130" value="" style="shape=cross;whiteSpace=wrap;html=1;rounded=0;sketch=1;fontFamily=Helvetica;fontSize=20;fontColor=#009900;strokeColor=default;fillColor=default;gradientDirection=south;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
@@ -551,8 +551,122 @@
         <mxCell id="15dOnrsKO9DdW6RfsD_v-131" value="" style="shape=cross;whiteSpace=wrap;html=1;rounded=0;sketch=1;fontFamily=Helvetica;fontSize=20;fontColor=#009900;strokeColor=default;fillColor=default;gradientDirection=south;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
           <mxGeometry x="-715" y="225" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="15dOnrsKO9DdW6RfsD_v-134" value="&lt;font face=&quot;黑体&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#ff0000&quot; style=&quot;&quot;&gt;主要研究内容一&lt;br&gt;&lt;/font&gt;&lt;/b&gt;AI应用的多芯片集成体系架构的自动化、软硬件协同设计方法研究&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;sketch=0;fillColor=#FFCCCC;strokeWidth=2;perimeterSpacing=1;opacity=30;strokeColor=#FF0000;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
-          <mxGeometry x="-470" y="40" width="280" height="140" as="geometry" />
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-134" value="&lt;font style=&quot;&quot; face=&quot;黑体&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#cc6600&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;主要研究内容1&lt;/font&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;AI应用的多芯片集成体系架构的自动化、软硬件协同设计方法研究&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=18;rounded=0;sketch=0;fillColor=#fff2cc;strokeWidth=2;perimeterSpacing=1;opacity=30;strokeColor=#994C00;spacingLeft=10;spacingRight=10;gradientColor=#ffd966;" vertex="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry x="-470" y="65" width="280" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-141" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#FF8000;strokeColor=#1A1A1A;strokeWidth=5;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79" source="15dOnrsKO9DdW6RfsD_v-109" target="15dOnrsKO9DdW6RfsD_v-119">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="64" y="540" as="sourcePoint" />
+            <mxPoint x="114" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-142" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#FF8000;strokeColor=#1A1A1A;strokeWidth=5;curved=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79" source="15dOnrsKO9DdW6RfsD_v-128" target="15dOnrsKO9DdW6RfsD_v-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="679.9999999999998" as="sourcePoint" />
+            <mxPoint x="503" y="679.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-143" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#FF8000;strokeColor=#1A1A1A;strokeWidth=5;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79" source="15dOnrsKO9DdW6RfsD_v-127" target="15dOnrsKO9DdW6RfsD_v-113">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355" y="689.9999999999998" as="sourcePoint" />
+            <mxPoint x="513" y="689.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-144" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#1A1A1A;strokeWidth=5;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79" source="15dOnrsKO9DdW6RfsD_v-114" target="15dOnrsKO9DdW6RfsD_v-109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="540" as="sourcePoint" />
+            <mxPoint x="10" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-145" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#b85450;strokeWidth=5;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;gradientColor=#ea6b66;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79" source="15dOnrsKO9DdW6RfsD_v-117" target="15dOnrsKO9DdW6RfsD_v-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="304.9999999999998" as="sourcePoint" />
+            <mxPoint x="82" y="289.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-146" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#b85450;strokeWidth=5;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#f8cecc;gradientColor=#ea6b66;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79" source="15dOnrsKO9DdW6RfsD_v-134" target="15dOnrsKO9DdW6RfsD_v-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="104.99999999999977" as="sourcePoint" />
+            <mxPoint x="62" y="89.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-147" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#1A1A1A;strokeWidth=5;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79" source="15dOnrsKO9DdW6RfsD_v-110" target="15dOnrsKO9DdW6RfsD_v-127">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-159" y="714.9999999999998" as="sourcePoint" />
+            <mxPoint x="83" y="699.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-149" value="" style="endArrow=classic;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#1A1A1A;strokeWidth=5;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-180" y="864.9999999999998" as="sourcePoint" />
+            <mxPoint x="62" y="849.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-150" value="" style="endArrow=none;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#999999;strokeWidth=3;curved=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="840" as="sourcePoint" />
+            <mxPoint x="518" y="1099.9999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-151" value="" style="endArrow=none;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#999999;strokeWidth=3;curved=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="850" as="sourcePoint" />
+            <mxPoint x="528" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-152" value="" style="endArrow=none;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#999999;strokeWidth=3;curved=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="860" as="sourcePoint" />
+            <mxPoint x="538" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-153" value="" style="endArrow=none;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#999999;strokeWidth=3;curved=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="870" as="sourcePoint" />
+            <mxPoint x="548" y="1130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-154" value="" style="endArrow=none;html=1;rounded=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#999999;strokeWidth=3;curved=0;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="880" as="sourcePoint" />
+            <mxPoint x="558" y="1140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-160" value="" style="endArrow=none;html=1;shadow=0;sketch=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#99CCFF;strokeWidth=3;opacity=50;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79" source="15dOnrsKO9DdW6RfsD_v-109" target="15dOnrsKO9DdW6RfsD_v-112">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-40" y="540" as="sourcePoint" />
+            <mxPoint x="10" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="430" y="570" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-161" value="" style="endArrow=none;html=1;shadow=0;sketch=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#99CCFF;strokeWidth=3;opacity=50;curved=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79" source="15dOnrsKO9DdW6RfsD_v-119" target="15dOnrsKO9DdW6RfsD_v-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="345" y="679.9999999999998" as="sourcePoint" />
+            <mxPoint x="503" y="179.99999999999977" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-162" value="" style="endArrow=none;html=1;shadow=0;sketch=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#99CCFF;strokeWidth=3;opacity=50;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79" source="15dOnrsKO9DdW6RfsD_v-114" target="15dOnrsKO9DdW6RfsD_v-128">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="540" as="sourcePoint" />
+            <mxPoint x="-40" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15dOnrsKO9DdW6RfsD_v-164" value="" style="endArrow=none;html=1;shadow=0;sketch=1;fontFamily=Helvetica;fontSize=24;fontColor=#666666;strokeColor=#99CCFF;strokeWidth=3;opacity=50;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="15dOnrsKO9DdW6RfsD_v-79" source="15dOnrsKO9DdW6RfsD_v-134" target="15dOnrsKO9DdW6RfsD_v-109">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-90" y="540" as="sourcePoint" />
+            <mxPoint x="-40" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-140" y="390" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
